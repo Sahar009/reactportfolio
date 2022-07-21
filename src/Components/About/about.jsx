@@ -44,7 +44,7 @@ const about = () => {
 
           </div>
           <p>
-           Hey There!, I'm a front-end Developer, I build Applications & websites, still playing around & my favorite tool is React! 
+           Hey There!, I'm a front-end Developer, I build Applications & websites, still playing around & my favorite tool is React!! 
 
           </p>
           
